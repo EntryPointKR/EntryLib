@@ -1,0 +1,4 @@
+main: @mainPackage@.EntryLibrary
+name: @pluginName@
+version: @version@
+author: @author@
